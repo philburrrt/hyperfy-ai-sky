@@ -11,7 +11,7 @@ Read the [Hyperfy Docs](https://docs.hyperfy.io/) for help customizing the app.
 4. `npm run dev`
 5. replace `YOUR_API_KEY` in `index.js` with your Blockade Labs API key
 
-# Uploading
+## Uploading
 
 1. change the `id` and `name` in app.json
 2. add an `image` and `description` if you would like
